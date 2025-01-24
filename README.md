@@ -26,8 +26,8 @@ This is a simple console-based online shopping system implemented in C++. The sy
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/online-shopping-system.git
-    cd online-shopping-system
+    git clone https://github.com/hanzlaahmadcheema/OnlineShoppingSystem.git
+    cd OnlineShoppingSystem
     ```
 
 2. Compile the C++ code:
